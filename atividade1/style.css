@@ -1,0 +1,25 @@
+.div_a{
+    background-color: #ff0202;
+    width: 1000px;
+    height: 1000px;
+}
+.div_b{
+    background-color: #02bcff;
+    width: 500px;
+    height: 500px;
+}
+.paragrafo{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 247, 0);
+    font: normal bold 25px monospace;
+}
+.div_c{
+    background-color: rgb(242, 113, 8);
+    width: 50%;
+    height: 1000px;
+}
+.div_d{
+    background-color: rgb(14, 238, 70);
+    height: 75%;
+    width: 500px;
+}
